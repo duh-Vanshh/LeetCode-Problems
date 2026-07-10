@@ -2,17 +2,21 @@ class Solution {
 public:
     int mySqrt(int x) {
         if (x == 2) return 1;
-        long long i = 1;
-        while ((i*i) != x) {
-            if ((i*i) == x) {
-                break;
-            } else if ((i*i) > x) {
-                i -= 1;
-                break;
+        int low = 0;
+        int high = x;
+        int ans = 0;
+
+        while (low <= high) {
+            long mid = (low + high) / 2;
+
+            if (mid*mid <= x) {
+                ans = mid;
+                low = mid + 1;
+            } else{
+                high = mid - 1;
             }
-            i++;
         }
 
-        return i;
+        return ans;
     }
 };
