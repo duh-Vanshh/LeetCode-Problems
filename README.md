@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0283-move-zeroes](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
