@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0268-missing-number) |
+| [1837-sum-of-digits-in-base-k](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/1837-sum-of-digits-in-base-k) |
 ## Two Pointers
 |  |
 | ------- |
