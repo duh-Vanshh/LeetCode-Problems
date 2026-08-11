@@ -10,16 +10,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -39,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
