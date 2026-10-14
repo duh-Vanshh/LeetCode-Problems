@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1837-sum-of-digits-in-base-k](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [2843-count-symmetric-integers](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/2843-count-symmetric-integers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
