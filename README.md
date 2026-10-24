@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1837-sum-of-digits-in-base-k](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/1837-sum-of-digits-in-base-k) |
+| [2409-count-days-spent-together](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 | [2843-count-symmetric-integers](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Two Pointers
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
