@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0263-ugly-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Sorting
@@ -132,5 +134,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0067-add-binary) |
 | [2409-count-days-spent-together](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
