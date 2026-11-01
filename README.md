@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1837-sum-of-digits-in-base-k](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [2409-count-days-spent-together](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 | [2843-count-symmetric-integers](https://github.com/duh-Vanshh/LeetCode-Problems/tree/master/2843-count-symmetric-integers) |
